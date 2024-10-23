@@ -5,6 +5,7 @@
   - 특정 변이 정보를 바탕으로 암종을 정확하게 분류
 ## 00.Members
 - 안정민 오예인
+- 상위 10% 이내 달성 (91/1,680)
   <img width="1197" alt="스크린샷 2024-10-23 오후 1 37 26" src="https://github.com/user-attachments/assets/b4da1a95-0cf3-45a5-ac7f-701868fda80c">
 
 ## 01. Data
