@@ -6,9 +6,8 @@
 ## 00.Members
 - 안정민 오예인
 - 상위 10% 이내 달성 (91/940)
-  <img width="1197" alt="스크린샷 2024-10-23 오후 1 37 26" src="https://github.com/user-attachments/assets/b4da1a95-0cf3-45a5-ac7f-701868fda80c">
-  ![image](https://github.com/user-attachments/assets/d8c43b16-2dd2-457b-9c92-24438c12b3eb)
-
+  <img width="800" alt="스크린샷 2024-10-23 오후 1 37 26" src="https://github.com/user-attachments/assets/b4da1a95-0cf3-45a5-ac7f-701868fda80c">
+  <img width="800" alt="스크린샷 2024-11-22" src="https://github.com/user-attachments/assets/d8c43b16-2dd2-457b-9c92-24438c12b3eb">
 
 ## 01. Data
 - train.csv 
